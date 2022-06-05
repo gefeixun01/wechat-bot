@@ -1,8 +1,10 @@
 # wechat-bot
 可以获取小程序code加好友等等，这里只列出了部分API，有DLL版本，有exe版本，有桌面微信的协议版本，后面这两个用作交流学习使用
-完整的文档：https://www.yuque.com/gefeixun/fgodp0/zk969o#cYA4M
-学习交流群：819338945
-文件在群里面，欢迎大家进群交流学习
++ DLL完整的文档：https://www.yuque.com/docs/share/a3dad537-d2f8-48a6-b68d-30adb3583699?# 
++ 桌面协议文档：https://www.yuque.com/docs/share/5bdc4b51-e989-47db-83f7-0770e2cc9dae?#
++ exe版本文档：https://www.yuque.com/docs/share/6ebd71c2-7254-4416-8288-5046b19f025c
++ 学习交流群：819338945
++ 文件在群里面，欢迎大家进群交流学习
 ## 请求地址
 http://127.0.0.1:8805
 ## 获取小程序code
