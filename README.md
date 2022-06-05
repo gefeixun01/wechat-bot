@@ -3,7 +3,9 @@
 + 适配微信版本：3.6.0.18
 + DLL完整的文档：https://www.yuque.com/docs/share/a3dad537-d2f8-48a6-b68d-30adb3583699?# 
 + 桌面协议文档：https://www.yuque.com/docs/share/5bdc4b51-e989-47db-83f7-0770e2cc9dae?#
++ 桌面协议GitHub地址（免费版本请前往群众下载）：https://github.com/gefeixun01/wechat-linux
 + exe版本文档：https://www.yuque.com/docs/share/6ebd71c2-7254-4416-8288-5046b19f025c
++ exe版本github地址（新版本请前往群中下载）：https://github.com/gefeixun01/WeChathook3.6.0.18
 + 学习交流群：819338945
 + 文件在群里面，欢迎大家进群交流学习
 ## 请求地址
