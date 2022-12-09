@@ -6,6 +6,8 @@
 + 桌面协议GitHub地址（免费版本请前往群众下载）：https://github.com/gefeixun01/wechat-linux
 + exe版本文档：https://www.yuque.com/docs/share/6ebd71c2-7254-4416-8288-5046b19f025c
 + exe版本github地址（新版本请前往群中下载）：https://github.com/gefeixun01/WeChathook3.6.0.18
+## 另有ipad、mac、windows协议，可加QQ交流
+
 + 学习交流QQ：3122142139
 + 文件在群里面，欢迎大家进群交流学习
 ## 请求地址
