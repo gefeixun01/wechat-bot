@@ -1,16 +1,16 @@
-#微信机器人
-获取可以小程序代码加好友等等，这里只推出了部分API，有DLL，python版本，python版本可以实现纯python环境微信各种功能，包括sessionid，小程序代码，云函数等等
+# 微信机器人
+* 获取可以小程序代码加好友等等，这里只推出了部分API，有DLL，python版本，易语言也可以写，python版本可以实现纯python环境微信各种功能，包括sessionid，小程序代码，云函数等等
 + 适配微信版本：3.9.8.12
 + DLL完整文档：https://console-docs.apipost.cn/preview/ddf2d570ad9769aa/2f4d79a1a4b95969
-+该文档适用于3.9.8.12版本
-+文档正在开发中，功能不断完善
-+该DLL非http接口，使用的是加载DLL，并调用函数的形式
++ 该文档适用于3.9.8.12版本
++ 文档正在开发中，功能不断完善
++ 该DLL非http接口，使用的是加载DLL，并调用函数的形式
 + DLL可使用易语言，Python，c++等编程语言加载
-+本DLL可用于开发框架
-+各个功能都可以自由组合，详情请联系QQ：3122142139
-文档交流学习使用。
++ 本DLL可用于开发框架
++ 各个功能都可以自由组合，详情请联系QQ：3122142139
++ 文档交流学习使用。
 
-##获取小程序代码
+## 获取小程序代码
 
 + type： get_code → 固定值
 + wxid： 需要操作为微信
@@ -21,7 +21,7 @@
 'wxid':'wxid_ogddw0322',
 'appid':'xxxxxxxx',
 }
-##通过群id获取群成员wxid
+## 通过群id获取群成员wxid
 + type： get_wxid_from_chatroom → 固定值
 + wxid：需要操作的微信id
 + chatroomid：群id
@@ -31,7 +31,7 @@
 'wxid':'wxid_m4xxzn7sxzm22',
 'chatroomid':'25607067974@chatroom',
 }
-##通过wxid添加好友
+## 通过wxid添加好友
 + type： add_friend_wxid 固定值
 + wxid ： 需要操作的微信id
 + add_wxid ： 需要添加人的微信id
@@ -43,7 +43,7 @@
     "add_wxid": "hytpnpn",
     "hello": "你好，个非寻",
 }
-##通过V3数据添加好友
+## 通过V3数据添加好友
 + type： add_friend_v3 固定值
 + wxid：需要操作的微信id
 + v3：可通过‘网络查找陌生人信息’接口获取
@@ -56,7 +56,7 @@
     "add_wxid": "hytpnpn",
     "hello": "你好，个非寻",
 }
-##网络替换陌生人信息
+## 网络替换陌生人信息
 + type： add_friend_v3 固定值
 + wxid：需要操作的微信id
 + phone_qq		查找的电话号码或者QQ号码
