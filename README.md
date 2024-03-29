@@ -1,17 +1,15 @@
 # wechat-bot
 可以获取小程序code加好友等等，这里只列出了部分API，有DLL版本，有exe版本，有桌面微信的协议版本，后面这两个用作交流学习使用
-+ 适配微信版本：3.6.0.18
-+ DLL完整的文档：https://www.yuque.com/docs/share/a3dad537-d2f8-48a6-b68d-30adb3583699?# 
-+ 桌面协议文档：https://www.yuque.com/docs/share/5bdc4b51-e989-47db-83f7-0770e2cc9dae?#
-+ 桌面协议GitHub地址（免费版本请前往群众下载）：https://github.com/gefeixun01/wechat-linux
-+ exe版本文档：https://www.yuque.com/docs/share/6ebd71c2-7254-4416-8288-5046b19f025c
-+ exe版本github地址（新版本请前往群中下载）：https://github.com/gefeixun01/WeChathook3.6.0.18
-## 另有ipad、mac、windows协议，可加QQ交流
-+ 以上协议文档可以参考：https://www.yuque.com/gefeixun/fgodp0/vyhkkx?singleDoc
-+ 学习交流QQ：3122142139
-+ 文件在群里面，欢迎大家进群交流学习
-## 请求地址
-http://127.0.0.1:8805
++ 适配微信版本：3.9.8.12
++ DLL完整的文档：https://console-docs.apipost.cn/preview/ddf2d570ad9769aa/2f4d79a1a4b95969
++ 该文档适用于3.9.8.12版本
++ 文档正在开发中，功能不断完善
++ 该DLL非http接口，使用的是加载DLL,并调用函数的形式
++ DLL可使用易语言，Python，c++等编程语言加载
++ 本DLL可以用来开发框架
++ 各个功能都可以自由组合，详情请联系QQ：3122142139
+文档仅供交流学习使用。
+
 ## 获取小程序code
 
 + type：		get_code	  →  固定值
