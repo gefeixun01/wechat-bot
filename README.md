@@ -1,11 +1,5 @@
 # 微信机器人
-* 获取可以小程序代码加好友等等，这里只推出了部分API，有DLL，python版本，易语言也可以写，python版本可以实现纯python环境微信各种功能，包括sessionid，小程序code，云函数等等
-+ 适配微信版本：3.9.10.16
-+ DLL完整文档：[https://console-docs.apipost.cn/preview/5e9cbd6adda0e9d7/6e88ccb376747013](https://console-docs.apipost.cn/preview/5e9cbd6adda0e9d7/6e88ccb376747013)
-+ 该文档适用于3.9.10.16版本
-+ 文档正在开发中，功能不断完善
-+ 该DLL为http接口，使用post请求调用功能
-+ DLL可使用易语言，Python，c++等编程语言加载
+
 + 详情请联系QQ：3122142139
 + 文档交流学习使用。
 
